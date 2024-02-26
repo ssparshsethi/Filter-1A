@@ -1,0 +1,13 @@
+h3
+{
+  font-size: 25px !important;
+}
+canvas {
+  border:2px dashed black;
+}
+body{
+    background-image: URL("https://img.pixers.pics/pho_wat(s3:700/FO/55/27/51/41/700_FO55275141_f8a0ed657067ca4ffc47a03d3f0e17fb.jpg,700,700,cms:2018/10/5bd1b6b8d04b8_220x50-watermark.png,over,480,650,jpg)/posters-green-mustache-background.jpg.jpg");
+}
+hr{
+    color: aqua;
+}
